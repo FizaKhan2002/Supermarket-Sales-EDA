@@ -1,18 +1,23 @@
-# Supermarket Sales Analysis 🛒
 
-Retail analytics project analyzing supermarket customer behavior and performance metrics.
+### ✅ 4. `Supermarket-Sales-EDA`  
+> File: `super_market_da_project.ipynb`
 
-## 📊 Goals
-- Analyze KPIs across different cities
-- Study product line performance and customer types
-- Explore gross margin and revenue trends
+```markdown
+# Supermarket Sales Analysis 🛍️
 
-## 🛠️ Tools Used
-- Python, Pandas, Seaborn
+Data analytics project analyzing customer behavior and retail metrics from a supermarket chain.
 
-## 📁 Files
-- `SupermarketSales_EDA.ipynb` 
-- `supermarket_sales.csv` (dataset)
+## 📊 Key Insights
+- City-wise revenue performance
+- Product line and gender comparison
+- Gross income vs. Rating visualization
 
-## 📌 Insights
-Used EDA techniques to visualize revenue trends, margins, and city-wise performance.
+## 📁 File
+- `super_market_da_project.ipynb`
+
+## 📊 Tools
+- Pandas
+- Seaborn
+- Matplotlib
+
+> Includes EDA with visualizations like pie charts, bar plots, and KDE plots.
